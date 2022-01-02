@@ -1,0 +1,6 @@
+Context
+People are always confused about their medical insurance and don't know the cost of insurance at different ages and conditions. This data is useful for these people and is useful to make predictions of the insurance cost they will have to pay.
+
+Content
+The data provider is unknown and all credit goes to the person.
+Data may not be sufficient for practical purpose and is solely for education and practice.
